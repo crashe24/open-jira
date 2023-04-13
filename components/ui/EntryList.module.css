@@ -1,0 +1,7 @@
+
+/* los modulos no pueden modificar por padres deben ser por modulos o por id*/
+.dragging {
+    background-color: rgba(0,0,0,0.4);
+    border-radius:10px;
+    border: 1px dashed white;
+}

@@ -1,0 +1,5 @@
+{
+    "dotenv.enableAutocloaking": false,
+    "CodeGPT.query.language": "Spanish",
+    "CodeGPT.maxTokens": 1000
+}
